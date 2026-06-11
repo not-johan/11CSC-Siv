@@ -1,27 +1,31 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
-  display: flex;
-}
+
 
 ul li a {
   display: block;
   color: white;
-  padding: 14px 16px;
+  padding: 18px 16px;
   text-decoration: none;
 }
-
+ul li a.active {
+  background-color: #27B7F5;
+}
 ul li a:hover {
-  background-color: #111111;
+  background-color: #27B7F5;
 }ul
 
  {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #27F5F2;
+  background-color: #1100FF;
   display: flex;
   justify-content: left;
+}
+
+h2 {
+  color: white;
+}
+
+body {
+  background-image: url("Screenshot 2026-05-29 103334.png");
 }
