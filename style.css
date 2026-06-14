@@ -27,5 +27,8 @@ h2 {
 }
 
 body {
-  background-image: url("Screenshot 2026-05-29 103334.png");
+  background-image: url("image/lebon bon.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%
+
 }
