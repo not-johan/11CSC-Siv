@@ -25,12 +25,12 @@ ul{
   justify-content: left;
 }
 
+
 h2 { text-align: center;}
 
 h2 {
   color: white;
 }
-
 body {
   background-image: url("image/lebon bon.jpeg");
   background-repeat: no-repeat;
@@ -76,4 +76,9 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #45a049;
+}
+h1 { text-align: center;}
+
+h1 {
+  color: white;
 }
