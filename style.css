@@ -23,13 +23,13 @@ ul{
    background-color: #1100FF;
   display: flex;
   justify-content: left;
-
 }
-img {
+
+img.notfish {
   opacity: 0.5;
 }
 
-img:hover {
+img.notfish:hover {
   opacity: 1.0;
 }
 
@@ -121,11 +121,11 @@ footer {
   bottom: 100%;
   width: 100%;
 }
-.sadfish:
-{ img
-  opacity: 0;
+
+img.sadfish{
+  opacity: 0.2;}
 
 
-img:hover
+img.sadfish:hover{
   opacity: 1.0;
 }
