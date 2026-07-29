@@ -120,6 +120,7 @@ footer {
     position: bottom;
   bottom: 100%;
   width: 100%;
+  opacity: 0.8;
 }
 
 img.sadfish{
@@ -128,4 +129,26 @@ img.sadfish{
 
 img.sadfish:hover{
   opacity: 1.0;
+}
+
+div.gallery-items {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 550px;
+  height: 680px;
+}
+
+div.gallery-items:hover {
+  border: 1px solid #777;
+}
+
+div.gallery-items img {
+  width: 100%;
+  height: auto;
+
+}
+
+div.gallery-items div.desc {
+  padding: 15px;
+  text-align: center;
 }
