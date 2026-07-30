@@ -152,3 +152,30 @@ div.gallery-items div.desc {
   padding: 15px;
   text-align: center;
 }
+div.gallery-itemt div.desc{
+  opacity: 0.5;}
+
+
+div.gallery-itemt div.desc:hover{
+  opacity: 1.0;
+}
+div.gallery-itemt {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 1000px;
+  height: 680px;
+
+}
+
+div.gallery-itemt:hover {
+  border: 1px solid #777;
+}
+
+div.gallery-itemt img {
+  width: 100%;
+  height: auto;
+
+}
+
+div.gallery-itemt div.desc {
+  padding: 15px;
