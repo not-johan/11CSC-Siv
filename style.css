@@ -179,3 +179,15 @@ div.gallery-itemt img {
 
 div.gallery-itemt div.desc {
   padding: 15px;
+}
+.divs {
+  width: 1890px;
+  background-color: blue;
+  height: 700px;
+  margin: 40px 0;
+  align: center;
+  opacity: 0.6;
+}
+.q { width: 590px;
+height: 700px;
+ }
